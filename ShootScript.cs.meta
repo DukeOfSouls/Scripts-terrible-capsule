@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cb9705a01fe807c4dac97f3daa263e66
+timeCreated: 1434393089
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - aTexture: {instanceID: 0}
+  - stoneClone: {fileID: 5444202, guid: 396ef8a323aa9164e8dc87d6524a001b, type: 2}
+  - stone: {fileID: 5480104, guid: d15d35a382fd6c54fa2f2e7b16970834, type: 2}
+  - origine: {instanceID: 0}
+  - GretelCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
